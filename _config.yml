@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My personal website"
 title_separator          : "-"
 name                     : "Adityo"
-description              : "An personal website created using minimal theme"
+description              : "A personal website created using minimal mistakes theme"
 url                      : "https://adissadis.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adissadis/adissadis.github.io"
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Adityo Dwijananto"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my site."
+  bio              : "A geographer who love to learn anything related to technology and photography."
   location         : "Indonesia"
-  email            :
+  email            : "adityo.dwijananto@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/adissadis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/adisadit"
 
 # Site Footer
 footer:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/adisadit"
 
 
 # Reading Files
