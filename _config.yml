@@ -102,10 +102,11 @@ analytics:
 # Site Author
 author:
   name             : "Adityo Dwijananto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.png"
   bio              : "A geographer who love to learn anything related to technology and photography."
   location         : "Indonesia"
-  email            : "adityo.dwijananto@gmail.com"
+  url: "https://www.openstreetmap.org/?mlat=-6.468&mlon=106.743#map=5/-6.468/106.743"
+  email            : #"adityo.dwijananto@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

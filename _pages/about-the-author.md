@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about-the-author/
 defaults:
   # _pages
   - scope:
