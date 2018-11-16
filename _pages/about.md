@@ -9,6 +9,9 @@ defaults:
       layout: single
       author_profile: true
 ---
+I'm GIS enthusiast who have big interest in travel, programming, photography and video games. I studied at University of Indonesia with Geography as my major. In my university life, I joined Geography Mountaineering Club (GMC) to expand my experience in mountaineering activities. It was a great experience to joined GMC because I can went to several beautiful mountains with my friends such as Gede-Pangrango and Argopuro.
+
+After graduated in 2012, I start to work in Humanitarian OpenStreetMap Team as GIS Trainer. From there I learn a lot about open-source GIS, such as OpenStreetMap and QGIS. I also learn how to talk in front of people and teach them about mapping. In 2014, I got promoted as Senior GIS Trainer and in 2016-now I'm working as GIS Project Coordinator.
 
 ## Notable Features
 
