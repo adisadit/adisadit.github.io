@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My personal website"
+title                    : "A journal of geography enthusiast"
 title_separator          : "-"
 name                     : "Adityo"
 description              : "A personal website created using minimal mistakes theme"
